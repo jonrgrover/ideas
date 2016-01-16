@@ -9,18 +9,28 @@ using System.Windows.Forms;
 
 namespace TryOutIdea
 {
-    // ----------------------------------------------------------------------------------------
+    // --------------------------------------------------------------------------------------------
     /// <!-- Form1 -->
+    /// <summary>
+    /// 
+    /// </summary>
     public partial class Form1 : Form
     {
+        // ----------------------------------------------------------------------------------------
+        /// <!-- Form1 -->
+        /// <summary>
+        /// 
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
             btnRun.Text = "Test";
         }
 
+        // ----------------------------------------------------------------------------------------
+        /// <!-- btnRun_Click -->
         /// <summary>
-        ///  basing L4 on L2
+        ///      basing L4 on L2
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -95,6 +105,11 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
+    /// <summary>
+    /// 
+    /// </summary>
     public static class Assert
     {
         public static void That(bool ok)
@@ -103,6 +118,8 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
     /// <summary>
     ///     native L4
     /// </summary>
@@ -135,6 +152,8 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
     /// <summary>
     /// native L4
     /// </summary>
@@ -160,6 +179,11 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
+    /// <summary>
+    /// 
+    /// </summary>
     public class GraphEdge // native L4
     {
         public GraphNode SourceNode      { get; set; }
@@ -196,6 +220,11 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
+    /// <summary>
+    /// 
+    /// </summary>
     public class InheritClass
     {
         GraphNode MyClass;
@@ -222,6 +251,11 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
+    /// <summary>
+    /// 
+    /// </summary>
     public class MemberList
     {
         GraphNode HeadOfList;
@@ -241,6 +275,8 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
     /// <summary>members of a class - native L3</summary>
     public class MemberListConcrete
     {
@@ -284,8 +320,10 @@ namespace TryOutIdea
 
     #region concrete classes
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
     /// <summary>
-    ///  native L2
+    ///      native L2
     /// </summary>
     public class InheritClassConcrete //
     {
@@ -316,8 +354,10 @@ namespace TryOutIdea
         }
     }
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
     /// <summary>
-    ///    native L1
+    ///      native L1
     /// </summary>
     public class ForeignKeyConcrete //
     {
@@ -347,6 +387,11 @@ namespace TryOutIdea
 
     #endregion concrete classes
 
+    // --------------------------------------------------------------------------------------------
+    /// <!--  -->
+    /// <summary>
+    /// 
+    /// </summary>
     public class ForeignKey
     {
         GraphNode ForeignTableColumn;
