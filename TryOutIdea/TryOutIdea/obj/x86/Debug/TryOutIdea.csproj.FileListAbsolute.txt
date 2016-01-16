@@ -6,3 +6,11 @@ C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csproj.GenerateResource
 C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.exe
 C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.pdb
 C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csprojResolveAssemblyReference.cache
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.exe
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.pdb
+C:\git\TryOutIdea\TryOutIdea\bin\Debug\TryOutIdea.exe
+C:\git\TryOutIdea\TryOutIdea\bin\Debug\TryOutIdea.pdb
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csprojResolveAssemblyReference.cache
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.Form1.resources
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.Properties.Resources.resources
+C:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csproj.GenerateResource.Cache

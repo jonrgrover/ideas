@@ -1,0 +1,56 @@
+[1mdiff --git a/TryOutIdea/TryOutIdea/Form1.cs b/TryOutIdea/TryOutIdea/Form1.cs[m
+[1mindex 6810b81..edd6cd2 100644[m
+[1m--- a/TryOutIdea/TryOutIdea/Form1.cs[m
+[1m+++ b/TryOutIdea/TryOutIdea/Form1.cs[m
+[36m@@ -153,9 +153,9 @@[m [mnamespace TryOutIdea[m
+     }[m
+ [m
+     // --------------------------------------------------------------------------------------------[m
+[31m-    /// <!--  -->[m
+[32m+[m[32m    /// <!-- Graph -->[m
+     /// <summary>[m
+[31m-    /// native L4[m
+[32m+[m[32m    ///      native L4[m
+     /// </summary>[m
+     public class Graph // [m
+     {[m
+[1mdiff --git a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.exe b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.exe[m
+[1mindex 3fc9e92..4b35f48 100644[m
+Binary files a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.exe and b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.exe differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.pdb b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.pdb[m
+[1mindex 2a37a72..09505a7 100644[m
+Binary files a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.pdb and b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.pdb differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.vshost.exe b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.vshost.exe[m
+[1mindex bb84a51..8c84517 100644[m
+Binary files a/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.vshost.exe and b/TryOutIdea/TryOutIdea/bin/Debug/TryOutIdea.vshost.exe differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache b/TryOutIdea/TryOutIdea/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache[m
+[1mindex cf3054d..2a2ca98 100644[m
+Binary files a/TryOutIdea/TryOutIdea/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache and b/TryOutIdea/TryOutIdea/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.FileListAbsolute.txt b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.FileListAbsolute.txt[m
+[1mindex 76b548c..a8f7f75 100644[m
+[1m--- a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.FileListAbsolute.txt[m
+[1m+++ b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.FileListAbsolute.txt[m
+[36m@@ -6,3 +6,11 @@[m [mC:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csproj.GenerateResource[m
+ C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.exe[m
+ C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.pdb[m
+ C:\vs2008\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csprojResolveAssemblyReference.cache[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.exe[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.pdb[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\bin\Debug\TryOutIdea.exe[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\bin\Debug\TryOutIdea.pdb[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csprojResolveAssemblyReference.cache[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.Form1.resources[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.Properties.Resources.resources[m
+[32m+[m[32mC:\git\TryOutIdea\TryOutIdea\obj\x86\Debug\TryOutIdea.csproj.GenerateResource.Cache[m
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.GenerateResource.Cache b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.GenerateResource.Cache[m
+[1mindex e12d9cf..fbad2e4 100644[m
+Binary files a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.GenerateResource.Cache and b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csproj.GenerateResource.Cache differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csprojResolveAssemblyReference.cache b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csprojResolveAssemblyReference.cache[m
+[1mindex b635f5d..27b333c 100644[m
+Binary files a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csprojResolveAssemblyReference.cache and b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.csprojResolveAssemblyReference.cache differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.exe b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.exe[m
+[1mindex 3fc9e92..4b35f48 100644[m
+Binary files a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.exe and b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.exe differ
+[1mdiff --git a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.pdb b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.pdb[m
+[1mindex 2a37a72..09505a7 100644[m
+Binary files a/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.pdb and b/TryOutIdea/TryOutIdea/obj/x86/Debug/TryOutIdea.pdb differ
