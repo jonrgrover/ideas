@@ -12,7 +12,7 @@ namespace TryOutIdea
     // --------------------------------------------------------------------------------------------
     /// <!-- Form1 -->
     /// <summary>
-    /// 
+    ///      What does this do?
     /// </summary>
     public partial class Form1 : Form
     {
